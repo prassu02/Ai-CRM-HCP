@@ -1,4 +1,3 @@
-# Ai-CRM-HCP
 # AI CRM System
 
 ## Overview
